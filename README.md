@@ -9,7 +9,7 @@ real estate prices in Boston (MEDV column) based on available characteristics de
 socioeconomic and demographic data, in particular using linear regression. The exercise also included the introduction of regularization (ridge regression, Lasso and ElasticNet) to improve the efficiency of the model.
 
 
-Data sets:
+```Data sets:
 The data used in the task is a set describing real estate prices in Boston, consisting of 506 rows
 and 13 descriptive characteristics, including CRIM (crime rate), RM (average number of rooms) or LSTAT
 (percentage of poor residents).
@@ -29,3 +29,4 @@ PTRATIO - ratio of students per teachers in the city,
 B - percentage of people of African-American descent,
 LSTAT - percentage of residents classified as poor (percentage of poverty),
 MEDV - median value of homes from a given area (in thousands of dollars).
+```
