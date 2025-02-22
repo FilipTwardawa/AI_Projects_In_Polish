@@ -5,14 +5,13 @@ Some simple projects from AI issues in translation into Polish.
 
 1 Objective.
 
-The objective of the lab is to conduct research related to binary and multi-class classification, using logistic regression on selected datasets such as : Titanic (passenger survival prediction) and Iris (iris species classification).
+The goal of the lab is to perform image segmentation using the algorithm of
+k-means and analyze the dataset using clustering algorithms.
+Task one involves implementing color segmentation of an image,
+and task two is to analyze the iris.csv dataset using various clustering methods
+to discover hidden patterns.
 
 
 Datasets:
-(a) Titanic: Contains data on the passengers of the Titanic ship.
-The target variable is “Survived”, which indicates whether the passenger survived (1) or not (0).
-The data includes characteristics such as age, class, gender, number of family members, price of the
-ticket.
-(b) Iris: A classic dataset containing information on three species of irises
-(setosa, versicolor, virginica) described by morphological characteristics: length and
-width of petals and calyxes.
+
+Image palm_tree.jpg showing silhouettes of palm trees against the sky and coast.
